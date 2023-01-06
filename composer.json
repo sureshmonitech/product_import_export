@@ -1,0 +1,17 @@
+{
+    "name": "surya/product-import-export",
+    "description": "Awesome Product Import Export plugin",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "./includes"}
+    },
+    "authors": [
+        {
+            "name": "Suresh Selvaraj"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
